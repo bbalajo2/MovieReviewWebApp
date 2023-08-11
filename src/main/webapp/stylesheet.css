@@ -1,0 +1,17 @@
+#title {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+}
+
+#dataType {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	border: 3px solid yellow;
+	color: yellow;
+}
+body{
+	background-color: gray;
+}
